@@ -1,4 +1,3 @@
- 
 #  Workshop: Introduction to Data Handling
 
 In this Workshop you will be introduced to the concept of Data Sharing. It is important to understand it in order to be able to use data around your application and work with user's informations.
@@ -38,7 +37,3 @@ Data managing is crucial to develop and structure in a powerful way your app. Wi
 - Here you will understand how to manage and handle data throughout your app
 - Learn how to build a simple app that manages a lightbulb with declarative language.
 - Light up and Dim a lightbulb!
-
-
-
-
